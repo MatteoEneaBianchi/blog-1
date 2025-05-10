@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Authors
-description:
+description: no
 lang: it
-ref: 
+ref: it
 permalink: /authors/
 ---
 <div class="author-card">
