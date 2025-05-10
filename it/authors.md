@@ -4,8 +4,9 @@ title: Authors
 description: no
 lang: it
 ref: it
-permalink: /authors/
+permalink: /gabrieljones/authors/
 ---
+
 <div class="author-card">
   <img src="https://gabrieljones.it/assets/logo.png" alt="" class="author-photo">
   <div class="author-info">
