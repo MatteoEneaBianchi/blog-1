@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fondazione OSF: La mia esperienza"
+title: "Fondazione OSF: La mia esperienza completa"
 categories:
   - GabrielMatteoJones
 tags:
