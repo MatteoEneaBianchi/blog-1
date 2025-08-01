@@ -1,4 +1,10 @@
-source 'https://rubygems.org'
-gem 'jekyll', '~> 4.0.0'
-gem 'jekyll-sitemap', '~> 1.4.0'
-gem 'jekyll-feed', '~> 0.13.0'
+source "https://rubygems.org"
+
+gem "jekyll", "~> 3.0"
+gem "rouge", "~> 1.0"
+
+group :jekyll_plugins do
+  gem "jekyll-feed"
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+end
